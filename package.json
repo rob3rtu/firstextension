@@ -1,9 +1,13 @@
 {
-  "name": "firstextension",
+  "name": "chucknorrisjokes",
   "displayName": "Chuck Norris Jokes",
   "publisher": "RobertUdrea",
+  "repository": {
+    "type": "gif",
+    "url": "https://github.com/rob3rtu/firstextension/blob/main/assets/demo.gif"
+  },
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.74.0"
   },

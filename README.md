@@ -1,6 +1,6 @@
 # Chuck Norris Jokes
 
-This is a simple extension made by curriosity.
+This is a simple extension made out of curriosity.
 
 # How to use it
 
