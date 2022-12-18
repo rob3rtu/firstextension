@@ -1,6 +1,7 @@
 {
   "name": "firstextension",
   "displayName": "Chuck Norris Jokes",
+  "publisher": "RobertUdrea",
   "description": "",
   "version": "0.0.1",
   "engines": {
