@@ -6,6 +6,7 @@
     "type": "gif",
     "url": "https://github.com/rob3rtu/firstextension/blob/main/assets/demo.gif"
   },
+  "icon": "assets.logoEu.png",
   "description": "",
   "version": "0.0.3",
   "engines": {
