@@ -6,9 +6,9 @@
     "type": "gif",
     "url": "https://github.com/rob3rtu/firstextension/blob/main/assets/demo.gif"
   },
-  "icon": "assets.logoEu.png",
+  "icon": "assets/logoEu.png",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.74.0"
   },
